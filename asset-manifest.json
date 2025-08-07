@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/farhanwebdev/static/css/main.f38a3276.css",
-    "main.js": "/farhanwebdev/static/js/main.42ceab9d.js",
-    "index.html": "/farhanwebdev/index.html",
-    "main.f38a3276.css.map": "/farhanwebdev/static/css/main.f38a3276.css.map",
-    "main.42ceab9d.js.map": "/farhanwebdev/static/js/main.42ceab9d.js.map"
+    "main.css": "/Split-app/static/css/main.f38a3276.css",
+    "main.js": "/Split-app/static/js/main.42ceab9d.js",
+    "index.html": "/Split-app/index.html",
+    "main.f38a3276.css.map": "/Split-app/static/css/main.f38a3276.css.map",
+    "main.42ceab9d.js.map": "/Split-app/static/js/main.42ceab9d.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
